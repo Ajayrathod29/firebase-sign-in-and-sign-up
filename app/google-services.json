@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "740979131609",
+    "firebase_url": "https://data-base-lecture-93f0c-default-rtdb.firebaseio.com",
+    "project_id": "data-base-lecture-93f0c",
+    "storage_bucket": "data-base-lecture-93f0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740979131609:android:fb2ce8eb455e9f4b942ac8",
+        "android_client_info": {
+          "package_name": "com.example.signupwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740979131609-jphk221q79p7gq28am6orb0qj9qqnvc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaCx0aZmxMrAQTRS7UzZQm_iYpWJGL9uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740979131609-jphk221q79p7gq28am6orb0qj9qqnvc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
